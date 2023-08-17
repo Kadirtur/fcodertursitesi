@@ -32,8 +32,6 @@
             <li>Remix Icon</li>
             <li>Box Icon</li>
         </ul>
-  
-       
         <h2>İletişim</h2>
         <p>Sorularınız veya geri bildirimleriniz için benimle iletişime geçebilirsiniz: kadirturan0244@mail.com</p>
     </div>
