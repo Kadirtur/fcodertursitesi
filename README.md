@@ -21,9 +21,6 @@
             <li>İndirdiğiniz klasörün içindeki dosyayı açın: <code> cd fcodertursitesi</code></li>
             <li>Projeyi görüntüleyin ve gezinin: <code> index.html</code></li>
         </ol>
-        <h2>Ekran Görüntüleri</h2>
-        <img src="C:\Users\Acer\Desktop\fcoder\ekran1.png" alt="Ekran Görüntüsü 1">
-        <img src="C:\Users\Acer\Desktop\fcoder\ekran2.png" alt="Ekran Görüntüsü 2">
         <h2>Kullanılan Teknolojiler</h2>
         <ul>
             <li>HTML</li>
